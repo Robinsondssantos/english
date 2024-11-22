@@ -22,13 +22,18 @@ body {
 }
 
 .container {
-  height: 300px;
-  width: 500px;
+  min-height: 300px;
+  min-width: 500px;
   padding: 16px;
   border-radius: 6px;
   border: 1px solid orange;
   display: flex;
   flex-direction: column;
+}
+
+.image-container {
+  padding: 8px;
+  border-top: 1px solid orange;
 }
 
 .header {
