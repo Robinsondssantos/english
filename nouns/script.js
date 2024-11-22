@@ -442,7 +442,7 @@ window.onload = function () {
     'Test',
     'Text',
     'Thanks',
-    'Theatre',
+    'Theater',
     'Theory',
     'Thing',
     'Thought',
