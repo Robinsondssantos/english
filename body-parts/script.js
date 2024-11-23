@@ -269,7 +269,127 @@ window.onload = function () {
       translation: "Junta",
       audio: "./songs/knuckle.mp3",
       image: "./images/knuckle.jpg"
-    }
+    },
+    {
+      sentence: "Nails",
+      translation: "Unhas",
+      audio: "./songs/nails.mp3",
+      image: "./images/nails.jpg"
+    },
+    {
+      sentence: "Breast",
+      translation: "Seio",
+      audio: "./songs/breast.mp3",
+      image: "./images/breast.jpg"
+    },
+    {
+      sentence: "Waist",
+      translation: "Cintura",
+      audio: "./songs/waist.mp3",
+      image: "./images/waist.jpg"
+    },
+    {
+      sentence: "Belly",
+      translation: "Barriga",
+      audio: "./songs/belly.mp3",
+      image: "./images/belly.jpg"
+    },
+    {
+      sentence: "Bellybutton",
+      translation: "Umbigo",
+      audio: "./songs/bellybutton.mp3",
+      image: "./images/bellybutton.jpg"
+    },
+    {
+      sentence: "Back",
+      translation: "Costas",
+      audio: "./songs/back.mp3",
+      image: "./images/back.jpg"
+    },
+    // {
+    //   sentence: "Low back",
+    //   translation: "Lombar",
+    //   audio: "./songs/low_back.mp3",
+    //   image: "./images/low_back.jpg"
+    // },
+    {
+      sentence: "Hip",
+      translation: "Quadril",
+      audio: "./songs/hip.mp3",
+      image: "./images/hip.jpg"
+    },
+    {
+      sentence: "Buttocks",
+      translation: "Nádegas",
+      audio: "./songs/buttocks.mp3",
+      image: "./images/buttocks.webp"
+    },
+    {
+      sentence: "Groin",
+      translation: "Virilha",
+      audio: "./songs/groin.mp3",
+      image: "./images/groin.jpg"
+    },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
+    // {
+    //   sentence: "Knuckle",
+    //   translation: "Junta",
+    //   audio: "./songs/knuckle.mp3",
+    //   image: "./images/knuckle.jpg"
+    // },
   ]
 
   // https://www.openenglish.com.br/blog/partes-do-corpo-em-ingles/
@@ -277,12 +397,7 @@ window.onload = function () {
 
 
 
-  // Nails – Unhas
-  // Breast/breasts – Seio/Seios
-  // Waist – Cintura
-  // Belly – Barriga
-  // Bellybutton – Umbigo
-  // Back – Costas
+
   // Low back – Lombar
   // Hip – Quadril
   // Buttocks – Nádegas
