@@ -511,6 +511,9 @@ window.onload = function () {
     'Building',
     'Smile',
     'Happiness',
+    'purse',
+    'jewelry',
+    'receipt'
   ];
 
   let translatedWords = [

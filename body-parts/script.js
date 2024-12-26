@@ -1,5 +1,5 @@
 window.onload = function () {
-  const dictionary = [
+  let dictionary = [
     {
       sentence: "Head",
       translation: "Cabeça",
@@ -114,12 +114,12 @@ window.onload = function () {
       audio: "./songs/freckles.mp3",
       image: "./images/freckles.jpg"
     },
-    {
-      sentence: "Face dimple",
-      translation: "Covinhas do rosto",
-      audio: "./songs/face.mp3",
-      image: "./images/face.jpg"
-    },
+    // {
+    //   sentence: "Face dimple",
+    //   translation: "Covinhas do rosto",
+    //   audio: "./songs/face.mp3",
+    //   image: "./images/face.jpg"
+    // },
     {
       sentence: "Beard",
       translation: "Barba",
@@ -447,9 +447,16 @@ window.onload = function () {
   }
 
   function removeWord(words, word) {
-    wordsCopy = [...words];
-    return wordsCopy.filter(item => item !== word)
+    // wordsCopy = [...words];
+    return words.filter(item => item.sentence !== word)
   }
+
+  // function removeByIndex(words, index) {
+  //   const _index = words.indexOf(index);
+  //   if (_index > -1) {
+  //     words.splice(index, 1);
+  //   }
+  // }
 
   function getRandomWord(words) {
     const size = words.length;
@@ -538,6 +545,7 @@ window.onload = function () {
     showScore(scoreElement, score);
     showCounter(counterElement, counter);
     clearAndFocusElement(answerElement);
+    dictionary = removeWord(dictionary, word);
 
     btnCheck.onclick = function () {
       counter++;
@@ -566,6 +574,10 @@ window.onload = function () {
       showScore(scoreElement, score);
       showCounter(counterElement, counter);
       clearAndFocusElement(answerElement);
+      // console.log('dictionary: ', dictionary);
+      // dictionary = dictionary.splice(randomInteger, 1);
+      dictionary = removeWord(dictionary, word);
+      // console.log('dictionary: ', dictionary);
     }
   }
 
