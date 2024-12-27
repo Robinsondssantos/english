@@ -739,79 +739,79 @@ window.onload = function () {
     {
       sentence: "Add Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/I listened to his story, and the details just didn't add up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Ask Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He finally asked her out for dinner..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Back Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He backed down after seeing the other side's strong arguments..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Blow Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The demolition blew up the building..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Break Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He broke down and cried when he learned that his girlfriend had left him..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Break Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/They broke up after five years..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Bring Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She brought the subject up at the meeting..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Call Off",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/They called off the meeting because of the storm..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Calm Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Please calm down; you're making too much noise..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Carry On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Despite the interruptions, she carried on with her presentation..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Check In",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We need to check in at the hotel by 3 PM..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Check Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/You should check out the new software..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Come Across",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/I came across an interesting article while browsing online..mp3",
       image: "./images/head.jpg"
     },
     {
