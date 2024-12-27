@@ -1025,311 +1025,305 @@ window.onload = function () {
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Knock Down",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look After",
       translation: "Act Up",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look Down On",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look For",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look Into",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Look Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Make Over",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Make Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Make On",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Name After",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Narrow Down",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Opt For",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Open Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Pass Away",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Pass Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },    
     {
-      sentence: "Act Up",
+      sentence: "Pick Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Put Away",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Put Off",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Put On",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Put Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Quibble Over",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Reach Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Round Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Rub Off",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Run Into",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Run Out Of",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Set Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Show Off",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Show Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Stick To",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Take After",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Take Off",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Throw Away",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Turn Down",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Turn Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Under Control",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Use Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Vouch For",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Vie For",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Wake Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Warm Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Wear Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Work On",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Work Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Write Down",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Zero In On",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Zip Up",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Zoom In",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Act Up",
+      sentence: "Zoom Out",
       translation: "Cabeça",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
-    },
-    {
-      sentence: "Act Up",
-      translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
-      image: "./images/head.jpg"
-    }    
+    }  
   ]
 
   function getRandomInteger(min, max) {
