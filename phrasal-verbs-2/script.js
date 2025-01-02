@@ -738,7 +738,7 @@ window.onload = function () {
     },
     {
       sentence: "Add Up",
-      translation: "It means to either calculate a total, or to make sense. It is a separable phrasal verb, meaning you can insert a word in between "add" and "up" and the phrase will still sound natural and logical.",
+      translation: "It means to either calculate a total, or to make sense. It is a separable phrasal verb.",
       audio: "./songs/I listened to his story, and the details just didn't add up..mp3",
       image: "./images/head.jpg"
     },
@@ -756,97 +756,97 @@ window.onload = function () {
     },
     {
       sentence: "Blow Up",
-      translation: "Cabeça",
+      translation: "This separable phrasal verb means to explode, either literally or figuratively.",
       audio: "./songs/The demolition blew up the building..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Break Down",
-      translation: "Cabeça",
+      translation: "This is a separable term that means either to stop functioning, or to separate something into parts. \nWhen it refers to something that has stopped functioning, this phrasal verb also works in both a literal or a figurative sense.",
       audio: "./songs/He broke down and cried when he learned that his girlfriend had left him..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Break Up",
-      translation: "Cabeça",
+      translation: "It means to end a relationship or to disperse something into smaller parts. The terms cannot be separated.",
       audio: "./songs/They broke up after five years..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Bring Up",
-      translation: "Cabeça",
+      translation: "This is a separable phrasal verb that means to introduce or mention a topic for discussion.",
       audio: "./songs/She brought the subject up at the meeting..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Call Off",
-      translation: "Cabeça",
+      translation: "It is a separable verb that means to cancel or stop something that was planned.",
       audio: "./songs/They called off the meeting because of the storm..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Calm Down",
-      translation: "Cabeça",
+      translation: "It means to become less angry, upset, or excited. It is an Inseparable phrasal verb.",
       audio: "./songs/Please calm down; you're making too much noise..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Carry On",
-      translation: "Cabeça",
+      translation: "This phrase is inseparable, and it implies maintaining or continuing a task.",
       audio: "./songs/Despite the interruptions, she carried on with her presentation..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Check In",
-      translation: "Cabeça",
+      translation: "You register your arrival or report your presence. This verb is inseparable.",
       audio: "./songs/We need to check in at the hotel by 3 PM..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Check Out",
-      translation: "Cabeça",
+      translation: "This separable phrasal verb is used to express the concept of examining something.",
       audio: "./songs/You should check out the new software..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Come Across",
-      translation: "Cabeça",
+      translation: "It is an inseparable phrasal verb that refers to finding or discovering something unexpectedly.",
       audio: "./songs/I came across an interesting article while browsing online..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Come Up With",
-      translation: "Cabeça",
+      translation: "This inseparable phrasal verb means to produce an idea, solution, or plan. \n It's transitive, meaning that it must be followed by an object. In the following example, the object is a solution.",
       audio: "./songs/We need to come up with a solution to this problem..mp3",
       image: "./images/head.jpg"
     },    
     {
       sentence: "Count On",
-      translation: "Cabeça",
+      translation: "This verb means to rely on someone or something. It cannot be separated.",
       audio: "./songs/You can count on me to help you out..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Cut Down",
-      translation: "Cabeça",
+      translation: "It is a separable verb that means to reduce the size or amount of something.",
       audio: "./songs/I'm trying to cut down my sugar intake..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Deal With",
-      translation: "Cabeça",
+      translation: "It something means to handle or manage something, often a problem or situation. It is an inseparable, transitive verb.",
       audio: "./songs/The customer service team is trained to deal with difficult customers..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Do Away With",
-      translation: "Cabeça",
+      translation: "You’re permanently removing it. It is inseparable.",
       audio: "./songs/They want to do away with homework..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Do Over",
-      translation: "Cabeça",
+      translation: "This is a separable phrasal verb meaning to redo something or perform it again.",
       audio: "./songs/I need to do the assignment over..mp3",
       image: "./images/head.jpg"
     },
