@@ -859,7 +859,7 @@ window.onload = function () {
     {
       sentence: "Drop Off",
       translation: "Cabeça",
-      audio: "./songs/Can you drop the kids off at school?.mp3",
+      audio: "./songs/Can you drop the kids off at school_.mp3",
       image: "./images/head.jpg"
     },
     {
@@ -1206,7 +1206,7 @@ window.onload = function () {
     },
     {
       sentence: "Show Up",
-      translation: "Cabeça",
+      translation: "When you "*" you arrive or appear, often unexpectedly. It is Inseparable.",
       audio: "./songs/He showed up late to the party..mp3",
       image: "./images/head.jpg"
     },
