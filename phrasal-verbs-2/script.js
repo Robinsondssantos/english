@@ -864,8 +864,8 @@ window.onload = function () {
     },
     {
       sentence: "Eat Out",
-      translation: "To '*' means to go to a restaurant to have a meal instead of eating at home. It is inseparable.",
-      audio: "./songs/How about eating out tonight? It’ll be a nice change..mp3",
+      translation: "To * means to go to a restaurant to have a meal instead of eating at home. It is inseparable.",
+      audio: "./songs/How about eating out tonight_ It’ll be a nice change..mp3",
       image: "./images/head.jpg"
     },
     {
@@ -912,7 +912,7 @@ window.onload = function () {
     },
     {
       sentence: "Get Away",
-      translation: "To '*' is an inseparable term that means to escape.",
+      translation: "To * is an inseparable term that means to escape.",
       audio: "./songs/The criminals managed to get away from the scene..mp3",
       image: "./images/head.jpg"
     },
@@ -924,109 +924,109 @@ window.onload = function () {
     },
     {
       sentence: "Give Back",
-      translation: "Cabeça",
+      translation: "To * means to return something to its owner.",
       audio: "./songs/I gave the book back to her..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Give In",
-      translation: "Cabeça",
+      translation: "To * is an inseparable phrasal verb meaning to surrender or yield to someone or something.",
       audio: "./songs/After hours of negotiation, he finally gave in to their demands..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Give Up",
-      translation: "Cabeça",
+      translation: "This inseparable phrasal verb means to stop trying or surrender.",
       audio: "./songs/He decided to give up on the project.mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Give Up On",
-      translation: "Cabeça",
+      translation: "To * means to stop trying to improve, help, or have faith in someone or something. It is inseparable.",
       audio: "./songs/She gave up on the project after many setbacks..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Go On",
-      translation: "Cabeça",
+      translation: "This is another inseparable phrasal verb that means to continue doing something.",
       audio: "./songs/She paused to collect her thoughts, then went on with her presentation..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Go Over",
-      translation: "Cabeça",
+      translation: "To * something means to review or examine it carefully, often to ensure accuracy or thorough understanding. This is one of the transitive phrasal verbs on the list, and it cannot be separated.",
       audio: "./songs/The teacher will go over the answers to the test tomorrow..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Grow Up",
-      translation: "Cabeça",
+      translation: "This simply means to mature or age. It can also refer to behaving in an adult-like manner. Another of English's intransitive phrasal verbs, it does not take a direct object.",
       audio: "./songs/It's time for you to grow up and take responsibility for your actions..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Hang On",
-      translation: "Cabeça",
+      translation: "* is an inseparable phrasal verb that means to wait for a short time or to hold onto something tightly. * a minute while I check the details.",
       audio: "./songs/Hang on a minute while I check the details..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Hang Out",
-      translation: "Cabeça",
+      translation: "When you *, you spend time casually relaxing or socializing with friends. This is one of our inseparable phrasal verbs. On weekends, we like to * at the park and catch up.",
       audio: "./songs/On weekends, we like to hang out at the park and catch up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Hang Up",
-      translation: "Cabeça",
+      translation: "This means to end a phone call. It is an inseparable term commonly used casually and by professionals like call center agents.",
       audio: "./songs/She hung up the phone after the conversation with the customer..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Head Out",
-      translation: "Cabeça",
+      translation: "An inseparable verb on our phrasal verbs list that means to leave a place and go towards a new destination.",
       audio: "./songs/We should head out early to avoid the traffic..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Hit The Road",
-      translation: "Cabeça",
+      translation: "This mid-20th-century phrase symbolizes the excitement of travel. When you *, you’re embarking on a journey or leaving a place.",
       audio: "./songs/As soon as the sun rose, we hit the road to make the most of our weekend getaway..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Hold On",
-      translation: "Cabeça",
+      translation: "As an inseparable phrasal verb, * means to wait for a short time. Alternatively, it can be taken more literally for a new meaning to grip something tightly.",
       audio: "./songs/Hold on a minute while I grab my coat..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Identify With",
-      translation: "Cabeça",
+      translation: "To * something means to feel a connection or sense of similarity with someone or something. It is an inseparable phrasal verb, and one of the transitive phrasal verbs on our list since it takes a direct object.",
       audio: "./songs/She identifies with the main character in the book because they share similar life experiences..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Iron Out",
-      translation: "Cabeça",
+      translation: "* is a separable phrasal verb which represents resolving or clarifying details.",
       audio: "./songs/We need to iron the details out before finalizing the plan..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Joke Around",
-      translation: "Cabeça",
+      translation: "To * means to playfully tease or make humorous remarks, often in a casual or lighthearted way. It is inseparable.",
       audio: "./songs/The kids spent the afternoon joking around and having fun at the park..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Jot Down",
-      translation: "Cabeça",
+      translation: "This is an inseparable phrasal verb that means to quickly write something briefly or make a quick note.",
       audio: "./songs/Let me jot down your phone number before I forget it..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Keep Up",
-      translation: "Cabeça",
+      translation: "To * means to continue or to stay at the same level. It is inseparable.",
       audio: "./songs/He struggled to keep up with the pace..mp3",
       image: "./images/head.jpg"
     },
@@ -1194,7 +1194,7 @@ window.onload = function () {
     },
     {
       sentence: "Set Up",
-      translation: "Cabeça",
+      translation: "To '*' simply means to arrange something (like a meeting). It’s a separable phrasal verb.",
       audio: "./songs/She set up the meeting on Tuesday..mp3",
       image: "./images/head.jpg"
     },
