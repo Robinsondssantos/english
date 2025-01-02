@@ -732,25 +732,25 @@ window.onload = function () {
   let dictionary = [
     {
       sentence: "Act Up",
-      translation: "Act Up",
+      translation: "It is an inseparable phrasal verb used to describe something that is misbehaving or not functioning properly.",
       audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Add Up",
-      translation: "Cabeça",
+      translation: "It means to either calculate a total, or to make sense. It is a separable phrasal verb, meaning you can insert a word in between "add" and "up" and the phrase will still sound natural and logical.",
       audio: "./songs/I listened to his story, and the details just didn't add up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Ask Out",
-      translation: "Cabeça",
+      translation: "This separable phrasal verb on our phrasal verbs list simply means to invite someone on a date.",
       audio: "./songs/He finally asked her out for dinner..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Back Down",
-      translation: "Cabeça",
+      translation: "It is an inseparable verb that means to pull away or give up in a confrontation or debate.",
       audio: "./songs/He backed down after seeing the other side's strong arguments..mp3",
       image: "./images/head.jpg"
     },
@@ -1045,289 +1045,289 @@ window.onload = function () {
     {
       sentence: "Look Down On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He tends to look down on people who don't have a formal education..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look For",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He’s looking for his keys..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Into",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The police are looking into the case..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Look out for cars while crossing the street..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She didn't know where the museum was, so she looked it up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Make Over",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We're going to make over the treehouse..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Make Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She made up the story off the top of her head..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Make On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He chose to move on after the breakup and focus on his career..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Name After",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/They named their daughter after their grandmother..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Narrow Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We need to narrow the options down to three finalists..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Opt For",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He chose to opt for the early flight to avoid traffic..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Open Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He finally opened up about his feelings..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Pass Away",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Her grandfather passed away peacefully..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Pass Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He passed out after standing in the hot sun for too long..mp3",
       image: "./images/head.jpg"
     },    
     {
       sentence: "Pick Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She picked up the groceries on her way home..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Away",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She put the clothes away in the closet..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Off",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/They put the meeting off until next week..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She put her coat on before going outside..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We put up our guests for the night..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Quibble Over",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/They continued to quibble over the details of the contract instead of focusing on the main issues..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Reach Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She decided to reach out to her old friends to reconnect and catch up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Round Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The police rounded up the suspects..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Rub Off",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/His optimism rubbed off on the whole team..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Run Into",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/I ran into an old friend at the store..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Run Out Of",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We ran out of milk, so we had to go to the store..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Set Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She set up the meeting on Tuesday..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Show Off",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He was excited to show off his new car..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Show Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He showed up late to the party..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Stick To",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She stuck to her exercise routine, even on vacation..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Take After",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She's stubborn; she takes after her mother..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Take Off",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He took his shoes off..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Throw Away",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Don't throw this chance away..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Turn Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She turned down the offer..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Turn Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He turned the heat up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Under Control",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The fire is finally under control..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Use Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/We've used up all the milk..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Vouch For",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/I can vouch for her honesty..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Vie For",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/Several companies are vying for the government contract..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Wake Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He woke the baby up early from her nap..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Warm Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She warmed up her muscles before running..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Wear Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He wore his shoes out from all of the marathon training he was doing..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Work On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She’s working on a new project..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Work Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/He worked out the kinks in the new project..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Write Down",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She wrote down the most important points..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zero In On",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The detective team zeroed in on the suspect's alibi as they got closer to solving the case..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zip Up",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/She zipped up her jacket before going outside..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zoom In",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The detective zoomed in on the suspect's face in the security footage..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zoom Out",
       translation: "Cabeça",
-      audio: "./songs/During the video call with our clients, my computer began to act up..mp3",
+      audio: "./songs/The camera zoomed out to reveal the entire city skyline..mp3",
       image: "./images/head.jpg"
     }  
   ]
