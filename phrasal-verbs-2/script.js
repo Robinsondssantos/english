@@ -852,73 +852,73 @@ window.onload = function () {
     },
     {
       sentence: "Drop By",
-      translation: "Cabeça",
+      translation: "This inseparable phrasal verb means to visit a person or place briefly and informally, often without a prior appointment. It is inseparable.",
       audio: "./songs/I was in the neighborhood, so I decided to drop by to see you..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Drop Off",
-      translation: "Cabeça",
+      translation: "To deliver or leave something or someone at a particular place. This phrasal verb can be separated.",
       audio: "./songs/Can you drop the kids off at school_.mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Eat Out",
-      translation: "Cabeça",
+      translation: "To '*' means to go to a restaurant to have a meal instead of eating at home. It is inseparable.",
       audio: "./songs/How about eating out tonight? It’ll be a nice change..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Edge Out",
-      translation: "Cabeça",
+      translation: "A separable phrasal verb that means to win by a small margin in a competition.",
       audio: "./songs/In the chess tournament, Maria edged out her opponent..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "End Up",
-      translation: "Cabeça",
+      translation: "This is one of the most common phrasal verbs in English. It indicates reaching an unexpected situation or place, often due to a series of events. This phrase is also inseparable.",
       audio: "./songs/We took a wrong turn and ended up at a beautiful hidden waterfall..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Fall Apart",
-      translation: "Cabeça",
+      translation: "When something falls apart, it breaks into pieces or becomes disorganized and deteriorated. It is one of English's inseparable phrasal verbs.",
       audio: "./songs/The old book fell apart after years of handling..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Fall For",
-      translation: "Cabeça",
+      translation: "This inseparable phrasal verb means to be deceived by something. Alternatively, when you '*' a person, you develop strong feelings of affection or love for them.",
       audio: "./songs/He fell for the scam and lost all his savings..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Figure Out",
-      translation: "Cabeça",
+      translation: "When you '*' something, you solve it or understand it after careful thought. This phrasal verb is separable.",
       audio: "./songs/I need to figure out how phrasal verbs work before the big exam..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Find Out",
-      translation: "Cabeça",
+      translation: "Another inseparable verb on our phrasal verbs list is to '*'. This verb refers to discovering or learning new information.",
       audio: "./songs/He found out the news through a friend..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Get Along",
-      translation: "Cabeça",
+      translation: "This inseparable phrasal verb refers to having a friendly and harmonious relationship with someone.",
       audio: "./songs/They get along really well despite their differences..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Get Away",
-      translation: "Cabeça",
+      translation: "To '*' is an inseparable term that means to escape.",
       audio: "./songs/The criminals managed to get away from the scene..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Get By",
-      translation: "Cabeça",
+      translation: "One of the intransitive phrasal verbs on the list, this describes managing or surviving despite limited resources or challenging conditions.",
       audio: "./songs/Even with a tight budget, they manage to get by each month..mp3",
       image: "./images/head.jpg"
     },
@@ -1206,7 +1206,7 @@ window.onload = function () {
     },
     {
       sentence: "Show Up",
-      translation: "When you "*" you arrive or appear, often unexpectedly. It is Inseparable.",
+      translation: "When you '*' you arrive or appear, often unexpectedly. It is Inseparable.",
       audio: "./songs/He showed up late to the party..mp3",
       image: "./images/head.jpg"
     },
