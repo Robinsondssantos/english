@@ -1032,301 +1032,301 @@ window.onload = function () {
     },
     {
       sentence: "Knock Down",
-      translation: "Cabeça",
+      translation: "To * means to destroy or demolish something by hitting it with force. It is one of the separable phrasal verbs on this list, and it can be used both literally and metaphorically.",
       audio: "./songs/They knocked the old warehouse down..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look After",
-      translation: "Act Up",
+      translation: "This is an inseparable phrasal verb that means taking care of something or someone, ensuring their needs are met.",
       audio: "./songs/She looks after her younger brother while their parents are at work..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Down On",
-      translation: "Cabeça",
+      translation: "To * means to view someone or something with a sense of superiority or disdain. This inseparable phrasal verb expresses a judgmental attitude.",
       audio: "./songs/He tends to look down on people who don't have a formal education..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look For",
-      translation: "Cabeça",
+      translation: "This phrase means to search for or seek something, and it is one of the English phrasal verbs that cannot be separated.",
       audio: "./songs/He’s looking for his keys..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Into",
-      translation: "Cabeça",
+      translation: "This is another one of the most common phrasal verbs in American English. It is an Inseparable term that means to investigate something.",
       audio: "./songs/The police are looking into the case..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Out",
-      translation: "Cabeça",
+      translation: "It means to be cautious or to watch for something. This phrase cannot be separated.",
       audio: "./songs/Look out for cars while crossing the street..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Look Up",
-      translation: "Cabeça",
+      translation: "This phrase is a separable verb that means to search for information.",
       audio: "./songs/She didn't know where the museum was, so she looked it up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Make Over",
-      translation: "Cabeça",
+      translation: "This is an inseparable phrasal verb that refers to the act of renovating or transforming something. It is transitive.",
       audio: "./songs/We're going to make over the treehouse..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Make Up",
-      translation: "Cabeça",
+      translation: "To * means to invent something, and this verb ise separable.",
       audio: "./songs/She made up the story off the top of her head..mp3",
       image: "./images/head.jpg"
     },
     {
-      sentence: "Make On",
-      translation: "Cabeça",
+      sentence: "Move On",
+      translation: "This inseparable, intransitive phrase means to progress or leave behind a past situation.",
       audio: "./songs/He chose to move on after the breakup and focus on his career..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Name After",
-      translation: "Cabeça",
+      translation: "To * involves giving someone or something the same name as another person or thing, usually in their honor or memory. It can be separated.",
       audio: "./songs/They named their daughter after their grandmother..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Narrow Down",
-      translation: "Cabeça",
+      translation: "This separable verb means to reduce the number of options or possibilities to a more specific range.",
       audio: "./songs/We need to narrow the options down to three finalists..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Opt For",
-      translation: "Cabeça",
+      translation: "To * something is to select or choose a particular option from several available choices. This phrase cannot be separated, and it does require a direct object.",
       audio: "./songs/He chose to opt for the early flight to avoid traffic..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Open Up",
-      translation: "Cabeça",
+      translation: "To * means to reveal or make something accessible.",
       audio: "./songs/He finally opened up about his feelings..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Pass Away",
-      translation: "Cabeça",
+      translation: "This inseparable phrase is a euphemism for dying.",
       audio: "./songs/Her grandfather passed away peacefully..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Pass Out",
-      translation: "Cabeça",
+      translation: "It is used as an inseparable phrasal verb when referring to losing consciousness. \nAlternatively, it becomes a separable phrasal verb when used in the context of distributing something, like a flyer or pamphlet.",
       audio: "./songs/He passed out after standing in the hot sun for too long..mp3",
       image: "./images/head.jpg"
     },    
     {
       sentence: "Pick Up",
-      translation: "Cabeça",
+      translation: "This is a separable term that means either to collect or to improve something.",
       audio: "./songs/She picked up the groceries on her way home..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Away",
-      translation: "Cabeça",
+      translation: "Also on this phrasal verbs list is to *. * is separable, and it means to store or to save.",
       audio: "./songs/She put the clothes away in the closet..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Off",
-      translation: "Cabeça",
+      translation: "It refers to delaying or postponing something. This phrase is separable and transitive.",
       audio: "./songs/They put the meeting off until next week..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put On",
-      translation: "Cabeça",
+      translation: "This separable phrasal verb means to wear or to apply.",
       audio: "./songs/She put her coat on before going outside..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Put Up",
-      translation: "Cabeça",
+      translation: "Meaning to accommodate something or someone, this phrasal verb is separable. Assuming you’re expecting guests for Thanksgiving, for instance, you might offer to put them up so they don't need to drive home afterwards.",
       audio: "./songs/We put up our guests for the night..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Quibble Over",
-      translation: "Cabeça",
+      translation: "It is an inseparable verb that means to argue or raise objections about minor or trivial details.",
       audio: "./songs/They continued to quibble over the details of the contract instead of focusing on the main issues..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Reach Out",
-      translation: "Cabeça",
+      translation: "To * involves making contact with someone, typically to offer help, support, or establish communication. This phrase cannot be separated.",
       audio: "./songs/She decided to reach out to her old friends to reconnect and catch up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Round Up",
-      translation: "Cabeça",
+      translation: "To * involves gathering together or collecting items, people, or information. This separable phrasal verb can also mean to summarize or review information.",
       audio: "./songs/The police rounded up the suspects..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Rub Off",
-      translation: "Cabeça",
+      translation: "As an inseparable term, * means to transfer a quality or characteristic to someone else.",
       audio: "./songs/His optimism rubbed off on the whole team..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Run Into",
-      translation: "Cabeça",
+      translation: "It is an inseparable term that means to encounter unexpectedly, or more literally, to crash into.",
       audio: "./songs/I ran into an old friend at the store..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Run Out Of",
-      translation: "Cabeça",
+      translation: "It means to deplete or exhaust a supply. * cannot be separated.",
       audio: "./songs/We ran out of milk, so we had to go to the store..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Set Up",
-      translation: "To '*' simply means to arrange something (like a meeting). It’s a separable phrasal verb.",
+      translation: "To * simply means to arrange something (like a meeting). It’s a separable phrasal verb.",
       audio: "./songs/She set up the meeting on Tuesday..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Show Off",
-      translation: "Cabeça",
+      translation: "This separable verb on our phrasal verbs list means to proudly display something for all to see.",
       audio: "./songs/He was excited to show off his new car..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Show Up",
-      translation: "When you '*' you arrive or appear, often unexpectedly. It is Inseparable.",
+      translation: "When you * you arrive or appear, often unexpectedly. It is Inseparable.",
       audio: "./songs/He showed up late to the party..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Stick To",
-      translation: "Cabeça",
+      translation: "This inseparable phrase means to keep focused on something without changing.",
       audio: "./songs/She stuck to her exercise routine, even on vacation..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Take After",
-      translation: "Cabeça",
+      translation: "It is an inseparable verb that means to resemble another person in appearance or behavior.",
       audio: "./songs/She's stubborn; she takes after her mother..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Take Off",
-      translation: "Cabeça",
+      translation: "It usually means to remove, and it typically refers to articles of clothing. Occasionally it will mean to ascend usually in the context of an aircraft.",
       audio: "./songs/He took his shoes off..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Throw Away",
-      translation: "Cabeça",
+      translation: "This phrase means to discard something. * is a separable phrasal verb.",
       audio: "./songs/Don't throw this chance away..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Turn Down",
-      translation: "Cabeça",
+      translation: "When you * something, you reject it. This term is a separable phrasal verb.",
       audio: "./songs/She turned down the offer..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Turn Up",
-      translation: "Cabeça",
+      translation: "This separable, transitive phrasal verb means to significantly increase something.",
       audio: "./songs/He turned the heat up..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Under Control",
-      translation: "Cabeça",
+      translation: "To be * means a situation is manageable or being handled successfully. It cannot be separated.",
       audio: "./songs/The fire is finally under control..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Use Up",
-      translation: "Cabeça",
+      translation: "It is a separable phrasal verb. It means to use something until there is no more supply.",
       audio: "./songs/We've used up all the milk..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Vouch For",
-      translation: "Cabeça",
+      translation: "To guarantee or confirm something or someone's good character or quality, you * them. This phrase is inseparable and transitive.",
       audio: "./songs/I can vouch for her honesty..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Vie For",
-      translation: "Cabeça",
+      translation: "This phrasal verb is inseparable and transitive, meaning to compete strongly with others for something.",
       audio: "./songs/Several companies are vying for the government contract..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Wake Up",
-      translation: "Cabeça",
+      translation: "To * means to stop sleeping or to become alert. It can be separated.",
       audio: "./songs/He woke the baby up early from her nap..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Warm Up",
-      translation: "Cabeça",
+      translation: "Also on this phrasal verbs list is *. This separable verb means to prepare for physical activity, or to become more comfortable with something or someone.",
       audio: "./songs/She warmed up her muscles before running..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Wear Out",
-      translation: "Cabeça",
+      translation: "When something becomes unusable due to overuse, we say it is *.",
       audio: "./songs/He wore his shoes out from all of the marathon training he was doing..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Work On",
-      translation: "Cabeça",
+      translation: "It is an inseparable verb and it means to improve or develop something.",
       audio: "./songs/She’s working on a new project..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Work Out",
-      translation: "Cabeça",
+      translation: "This means to resolve a problem, or to perform physical exercise. It can be separated.",
       audio: "./songs/He worked out the kinks in the new project..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Write Down",
-      translation: "Cabeça",
+      translation: "To * means to record or document information on paper. It is a separable phrasal verb.",
       audio: "./songs/She wrote down the most important points..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zero In On",
-      translation: "Cabeça",
+      translation: "It is an inseparable phrasal verb that means to focus all attention or effort on something specific.",
       audio: "./songs/The detective team zeroed in on the suspect's alibi as they got closer to solving the case..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zip Up",
-      translation: "Cabeça",
+      translation: "This separable phrasal verb means to fasten something with a zipper.",
       audio: "./songs/She zipped up her jacket before going outside..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zoom In",
-      translation: "Cabeça",
+      translation: "It is an inseparable verb that means to focus on a specific detail or area, often used for images or videos.",
       audio: "./songs/The detective zoomed in on the suspect's face in the security footage..mp3",
       image: "./images/head.jpg"
     },
     {
       sentence: "Zoom Out",
-      translation: "Cabeça",
+      translation: "The opposite of “zoom in,” to * means to widen the view or perspective. This verb is also inseparable.",
       audio: "./songs/The camera zoomed out to reveal the entire city skyline..mp3",
       image: "./images/head.jpg"
     }  
