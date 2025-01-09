@@ -90,12 +90,12 @@ window.onload = function () {
       audio: "./songs/teeth.mp3",
       image: "./images/teeth.png"
     },
-    // {
-    //   sentence: "Wisdom teeth",
-    //   translation: "Dentes do siso",
-    //   audio: "./songs/wisdom.mp3",
-    //   image: "./images/face.jpg"
-    // },
+    {
+      sentence: "Wisdom teeth",
+      translation: "Dentes do siso",
+      audio: "./songs/Wisdom teeth.mp3",
+      image: "./images/Wisdom teeth.webp"
+    },
     {
       sentence: "Tongue",
       translation: "Língua",
@@ -156,12 +156,12 @@ window.onload = function () {
       audio: "./songs/neck.mp3",
       image: "./images/neck.jpg"
     },   
-    // {
-    //   sentence: "Adam’s apple",
-    //   translation: "Pomo de adão",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },   
+    {
+      sentence: "Adam’s apple",
+      translation: "Pomo de adão",
+      audio: "./songs/Adam’s apple.mp3",
+      image: "./images/Adam’s apple.jpg"
+    },   
     {
       sentence: "Nape",
       translation: "Nuca",
@@ -234,36 +234,36 @@ window.onload = function () {
       audio: "./songs/palm.mp3",
       image: "./images/palm.jpg"
     },
-    // {
-    //   sentence: "Thumb finger",
-    //   translation: "Dedo polegar",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },
-    // {
-    //   sentence: "Pointer finger",
-    //   translation: "Dedo indicador",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },
-    // {
-    //   sentence: "Middle finger",
-    //   translation: "Dedo médio",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },
-    // {
-    //   sentence: "Ring finger",
-    //   translation: "Dedo anelar",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },
-    // {
-    //   sentence: "Pinky finger",
-    //   translation: "Dedo mindinho",
-    //   audio: "./songs/jaw.mp3",
-    //   image: "./images/face.jpg"
-    // },
+    {
+      sentence: "Thumb finger",
+      translation: "Dedo polegar",
+      audio: "./songs/Thumb finger.mp3",
+      image: "./images/Thumb finger.jpg"
+    },
+    {
+      sentence: "Pointer finger",
+      translation: "Dedo indicador",
+      audio: "./songs/Pointer finger.mp3",
+      image: "./images/Pointer finger.jpg"
+    },
+    {
+      sentence: "Middle finger",
+      translation: "Dedo médio",
+      audio: "./songs/Middle finger.mp3",
+      image: "./images/Middle finger.jpg"
+    },
+    {
+      sentence: "Ring finger",
+      translation: "Dedo anelar",
+      audio: "./songs/Ring finger.mp3",
+      image: "./images/Ring finger.jpg"
+    },
+    {
+      sentence: "Pinky finger",
+      translation: "Dedo mindinho",
+      audio: "./songs/Pinky finger.mp3",
+      image: "./images/Pinky finger.jpg"
+    },
     {
       sentence: "Knuckle",
       translation: "Junta",
@@ -306,12 +306,12 @@ window.onload = function () {
       audio: "./songs/back.mp3",
       image: "./images/back.jpg"
     },
-    // {
-    //   sentence: "Low back",
-    //   translation: "Lombar",
-    //   audio: "./songs/low_back.mp3",
-    //   image: "./images/low_back.jpg"
-    // },
+    {
+      sentence: "Low back",
+      translation: "Lombar",
+      audio: "./songs/Low back.mp3",
+      image: "./images/Low back.webp"
+    },
     {
       sentence: "Hip",
       translation: "Quadril",
