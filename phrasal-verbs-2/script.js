@@ -1329,6 +1329,12 @@ window.onload = function () {
       translation: "The opposite of “zoom in,” to * means to widen the view or perspective. This verb is also inseparable.",
       audio: "./songs/The camera zoomed out to reveal the entire city skyline..mp3",
       image: "./images/head.jpg"
+    },
+    {
+      sentence: "Head Over To",
+      translation: "In common usage, though, head to or * have come to mean 'go to' (referring to the destination, itself, rather than the direction of the destination).",
+      audio: "./songs/Once you're ready, head over to the next lesson..mp3",
+      image: "./images/head.jpg"
     }  
   ]
 
