@@ -173,7 +173,7 @@ window.onload = function () {
       sentence: "recover from",
       example: "He recovered from surgery quickly.",
       audio: "./songs/He recovered from surgery quickly..mp3",
-      image: "./images/recover from.png",
+      image: "./images/recover from2.png",
       meaning: "recuperar-se de",
     },
     {
@@ -249,7 +249,7 @@ window.onload = function () {
     {
       sentence: "distinguish from",
       example: "Can you distinguish salt from sugar?",
-      audio: "./songs/Can you distinguish salt from sugar?.mp3",
+      audio: "./songs/Can you distinguish salt from sugar_.mp3",
       image: "./images/distinguish from.png",
       meaning: "distinguir de",
     },
@@ -341,7 +341,7 @@ window.onload = function () {
       sentence: "prevent from",
       example: "Fear prevents us from growing.",
       audio: "./songs/Fear prevents us from growing..mp3",
-      image: "./images/prevent from.png",
+      image: "./images/prevent from2.png",
       meaning: "impedir de",
     },
     {
@@ -440,6 +440,10 @@ window.onload = function () {
     element.innerText = example.toLowerCase();
   }
 
+  function showMeaning(element, meaning) {
+    element.innerText = meaning.toLowerCase();
+  }
+
   function showWord(element, word) {    
     element.innerText = getMaskedWord(word.toLowerCase());
   }
@@ -467,6 +471,7 @@ window.onload = function () {
   function main() {
     const wordElement = document.getElementById("word");
     const exampleElement = document.getElementById("example");
+    const meaningElement = document.getElementById("meaning");
     const counterElement = document.getElementById("counter");
     const scoreElement = document.getElementById("score");
     const answerElement = document.getElementById("answer");
@@ -486,12 +491,14 @@ window.onload = function () {
     let _word = getWord(dictionary, randomInteger);
     let word = _word.sentence;
     let example = _word.example;
+    let meaning = _word.meaning;
     image.src = _word.image;
     audio.src = _word.audio;
     audio.load();
 
     showWord(wordElement, word);     
     showExample(exampleElement, example) ;
+    showMeaning(meaningElement, meaning) ;
 
     showScore(scoreElement, score);
     showCounter(counterElement, counter);
@@ -511,6 +518,7 @@ window.onload = function () {
       _word = getWord(dictionary, randomInteger);
       word = _word.sentence;
       example = _word.example;
+      meaning = _word.meaning;
       image.src = _word.image;
       audio.src = _word.audio;
       audio.load();
@@ -518,6 +526,7 @@ window.onload = function () {
 
       showWord(wordElement, word);      
       showExample(exampleElement, example);
+      showMeaning(meaningElement, meaning);
       showScore(scoreElement, score);
       showCounter(counterElement, counter);
       clearAndFocusElement(answerElement);
