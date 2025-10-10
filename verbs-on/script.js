@@ -124,7 +124,7 @@ window.onload = function () {
     {
       sentence: "comment on",
       example: "She commented on the situation.",
-      audio: "./songs/he commented on the situation..mp3",
+      audio: "./songs/She commented on the situation..mp3",
       image: "./images/comment on2.png"
     },
     {
