@@ -117,7 +117,7 @@ window.onload = function () {
       sentence: "stop from",
       example: "Nothing can stop him from trying.",
       audio: "./songs/Nothing can stop him from trying..mp3",
-      image: "./images/stop from.png",
+      image: "./images/stop from2.png",
       meaning: "impedir de",
     },
     {
@@ -243,7 +243,7 @@ window.onload = function () {
       sentence: "differ from",
       example: "This result differs from the last one.",
       audio: "./songs/This result differs from the last one..mp3",
-      image: "./images/differ from.png",
+      image: "./images/differ from2.png",
       meaning: "diferir de",
     },
     {
@@ -257,7 +257,7 @@ window.onload = function () {
       sentence: "separate from",
       example: "He separated from his business partner.",
       audio: "./songs/He separated from his business partner..mp3",
-      image: "./images/separate from.png",
+      image: "./images/separate from2.png",
       meaning: "separar de",
     },
     {
@@ -271,7 +271,7 @@ window.onload = function () {
       sentence: "exclude from",
       example: "She was excluded from the group.",
       audio: "./songs/She was excluded from the group..mp3",
-      image: "./images/exclude from.png",
+      image: "./images/exclude from2.png",
       meaning: "excluir de",
     },
     {
@@ -299,7 +299,7 @@ window.onload = function () {
       sentence: "protect from",
       example: "Parents protect their children from danger.",
       audio: "./songs/Parents protect their children from danger..mp3",
-      image: "./images/protect from.png",
+      image: "./images/protect from2.png",
       meaning: "proteger de",
     },
     {
@@ -320,7 +320,7 @@ window.onload = function () {
       sentence: "suffer from",
       example: "Many people suffer from anxiety.",
       audio: "./songs/Many people suffer from anxiety..mp3",
-      image: "./images/suffer from.png",
+      image: "./images/suffer from2.png",
       meaning: "sofrer de",
     },
     {
@@ -334,7 +334,7 @@ window.onload = function () {
       sentence: "escape from",
       example: "They escaped from the burning building.",
       audio: "./songs/They escaped from the burning building..mp3",
-      image: "./images/escape from.png",
+      image: "./images/escape from2.png",
       meaning: "escapar de",
     },
     {
@@ -376,7 +376,7 @@ window.onload = function () {
       sentence: "graduate from",
       example: "She graduated from Harvard.",
       audio: "./songs/She graduated from Harvard..mp3",
-      image: "./images/graduate frompng",
+      image: "./images/graduate from.png",
       meaning: "demitir-se de",
     },
     {
