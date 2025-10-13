@@ -377,7 +377,7 @@ window.onload = function () {
       example: "She graduated from Harvard.",
       audio: "./songs/She graduated from Harvard..mp3",
       image: "./images/graduate from.png",
-      meaning: "demitir-se de",
+      meaning: "graduar-se em",
     },
     {
       sentence: "appeal from",
