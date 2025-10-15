@@ -337,6 +337,20 @@ window.onload = function () {
       image: "./images/Please come here and sit down..png",
       meaning: "ir - Por favor, venha aqui e sente-se.",
     },
+    {
+      sentence: "oe",
+      example: "I bought a new running shoe today.",
+      audio: "./songs/I bought a new running shoe today..mp3",
+      image: "./images/I bought a new running shoe today..png",
+      meaning: "u - Eu comprei um tênis de corrida novo hoje.",
+    },
+    {
+      sentence: "oe",
+      example: "We paddled the canoe across the river.",
+      audio: "./songs/We paddled the canoe across the river..mp3",
+      image: "./images/We paddled the canoe across the river..png",
+      meaning: "u - Nós remamos a canoa atravessando o rio.",
+    },
   ]
 
   function getRandomInteger(min, max) {
