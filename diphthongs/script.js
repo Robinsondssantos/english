@@ -10,7 +10,7 @@ window.onload = function () {
     },
     {
       sentence: "oi",
-      example: "She has a beautiful singing voice. ",
+      example: "She has a beautiful singing voice.",
       audio: "./songs/She has a beautiful singing voice..mp3",
       image: "./images/She has a beautiful singing voice..png",
       meaning: "oi - Ela tem uma bela voz para cantar.",
@@ -38,9 +38,9 @@ window.onload = function () {
     },
     {
       sentence: "au",
-      example: "Please pass the tomato sauce. ",
-      audio: "./songs/Please pass the tomato sauce. .mp3",
-      image: "./images/Please pass the tomato sauce. .png",
+      example: "Please pass the tomato sauce.",
+      audio: "./songs/Please pass the tomato sauce..mp3",
+      image: "./images/Please pass the tomato sauce..png",
       meaning: "ó - Por favor, passe o molho de tomate.",
     },
     {
@@ -58,8 +58,15 @@ window.onload = function () {
       meaning: "ó - pata (de animal) - O gato estendeu a pata gentilmente.",
     },
     {
+      sentence: "aw",
+      example: "The weather was awful yesterday, it rained all day and the wind was freezing.",
+      audio: "./songs/The weather was awful yesterday, it rained all day and the wind was freezing..mp3",
+      image: "./images/The weather was awful yesterday, it rained all day and the wind was freezing..png",
+      meaning: "ó -O tempo estava horrível ontem, choveu o dia todo e o vento estava congelante.",
+    },
+    {
       sentence: "ue",
-      example: "I used strong glue to fix the vase. ",
+      example: "I used strong glue to fix the vase.",
       audio: "./songs/I used strong glue to fix the vase..mp3",
       image: "./images/I used strong glue to fix the vase..png",
       meaning: "u - Eu usei cola forte para consertar o vaso.",
@@ -171,7 +178,7 @@ window.onload = function () {
     },
     {
       sentence: "ee",
-      example: "My favorite swing is on the old oak tree.",
+      example: "My favorite swing is on the old oak tree.", 
       audio: "./songs/My favorite swing is on the old oak tree..mp3",
       image: "./images/My favorite swing is on the old oak tree..png",
       meaning: "i - Meu balanço favorito está no velho carvalho.",
@@ -213,9 +220,9 @@ window.onload = function () {
     },
     {
       sentence: "ar",
-      example: "Let’s meet at the city park. ",
-      audio: "./songs/Let’s meet at the city park. .mp3",
-      image: "./images/Let’s meet at the city park. .png",
+      example: "Let’s meet at the city park.",
+      audio: "./songs/Let’s meet at the city park..mp3",
+      image: "./images/Let’s meet at the city park..png",
       meaning: "ar - Vamos nos encontrar no parque da cidade.",
     },
     {
@@ -227,7 +234,7 @@ window.onload = function () {
     },
     {
       sentence: "or",
-      example: "Please use a fork to eat your salad. ",
+      example: "Please use a fork to eat your salad.",
       audio: "./songs/Please use a fork to eat your salad..mp3",
       image: "./images/Please use a fork to eat your salad..png",
       meaning: "or - Por favor, use um garfo para comer sua salada.",
@@ -262,7 +269,7 @@ window.onload = function () {
     },
     {
       sentence: "er",
-      example: "The clerk helped me find the item. ",
+      example: "The clerk helped me find the item.",
       audio: "./songs/The clerk helped me find the item..mp3",
       image: "./images/The clerk helped me find the item..png",
       meaning: "ãr - O balconista me ajudou a encontrar o item.",
